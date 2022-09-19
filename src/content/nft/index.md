@@ -1,5 +1,5 @@
 ---
-title: Non-fungible tokens (NFT)
+title: NFT Meaning: What is an NFT (Non-fungible Token)?
 description: An overview of NFTs on Ethereum
 lang: en
 template: use-cases
@@ -17,9 +17,11 @@ NFTs are currently taking the digital art and collectibles world by storm. Digit
 
 If Andy Warhol had been born in the late 90s, he probably would have minted Campbell's Soup as an NFT. It's only a matter of time before Kanye puts a run of Yeezys on Ethereum. And one day owning your car might be proved with an NFT.
 
-## What's an NFT? {#what-are-nfts}
+## What is an NFT? {#what-are-nfts}
 
 NFTs are tokens that we can use to represent ownership of unique items. They let us tokenize things like art, collectibles, even real estate. Ownership of an asset is secured by the Ethereum blockchain – no one can modify the record of ownership or copy/paste a new NFT into existence.
+
+## What does NFT stand for? {#what-does-nft-stand-for}
 
 NFT stands for non-fungible token. Non-fungible is an economic term that you could use to describe things like your furniture, a song file, or your computer. These things are not interchangeable for other items because they have unique properties.
 
